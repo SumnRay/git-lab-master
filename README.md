@@ -28,3 +28,5 @@
 2. Перейти в каталог проекта.
 3. Установить pytest.
 4. Запустить тесты командой `py -m pytest -q`.
+## Stash demonstration
+This section was temporarily saved with git stash.
